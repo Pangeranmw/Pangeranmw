@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pangeranmw.github.io](https://pangeranmw.github.io)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pangeranmw&show_icons=true&locale=en&layout=compact" alt="pangeranmw" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pangeranmw&show_icons=true&locale=en&layout=compact" alt="pangeranmw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pangeranmw&show_icons=true&locale=en" alt="pangeranmw" /></p>
 
